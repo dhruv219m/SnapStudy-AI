@@ -1,0 +1,5 @@
+Artificial intelligence is the field of building systems that perform tasks associated with human intelligence.
+
+Machine learning is a subset of artificial intelligence that learns patterns from data.
+
+On-device AI performs inference locally rather than requiring every request to be sent to a remote server.
